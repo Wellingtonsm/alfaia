@@ -24,8 +24,7 @@ html {
 
 body {
     background-image: url(/img/tela.jpg);
-    color: var(--text-color);
-
+    color: var(--text-color);    
 }
 
 section {
@@ -65,8 +64,6 @@ section {
     font-weight: 600;
     cursor: default;    
 }
-
-
 
 .navbar a {
     font-size: 1.7rem;
